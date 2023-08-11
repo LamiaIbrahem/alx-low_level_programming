@@ -1,4 +1,4 @@
-#incloud <stdio.h>
+#include <stdio.h>
 
 /**
  * main - this is the main function
@@ -8,6 +8,6 @@
 
 int main(void)
 {
-	peintf("with proper grammar, but the outcome is a piece of art,");
+	peintf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
 }
